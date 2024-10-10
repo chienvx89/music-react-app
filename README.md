@@ -1,5 +1,5 @@
 # music-react-app
-1. Xây dụng app music đơn giản có chức năng: 
+1. Xây dụng app music đơn giản có chức năng:  => done
 	- có nút play, pause, repeat, next, prev
 	- hiển thị danh sách bài hát
 	- hiển thị bài đang phát
@@ -8,3 +8,6 @@
 	- hiển thị danh sách theo phân trang ( dạng ko scroll )
 	- ấn vào bài trong danh sách sẽ tự động phát bài đó
 	- hiển thị thanh tiến động
+ 	- phát nhạc từ api soud
+3. Triển khai lên một hosting
+ 
